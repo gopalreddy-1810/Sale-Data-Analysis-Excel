@@ -152,6 +152,6 @@ This project demonstrates how Microsoft Excel can be used to transform raw busin
 
 ## 👩‍💻 Author
 
-Yeresi Venkata RamaGopal Reddy
+Yeresi Venkata Ramagopal Reddy
 
 **B.Tech – Data Science**
